@@ -35,4 +35,4 @@ The video will save in the same directory as the code save.
 .\ytstreamTrim.ps1
 ```
 
-All video in the same directory and in `.mkv` format as the code will be trim.
+All video in the same directory as the code and in `.mkv` format will be trim.
